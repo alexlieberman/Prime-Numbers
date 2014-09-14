@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.math.*;
 
-public class SIEVE2 {
+public class Sieve2 {
 
 	static int maxNumber = 10000;
 
